@@ -1,80 +1,98 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00d2ff%26height%3D200%26section%3Dheader%26text%3DMohsin%2520Haider%26fontSize%3D70%26animation%3DfadeIn%26fontColor%3Dffffff" width="100%"/>
 
-<h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D🛡️+AI+%26+Cybersecurity+Researcher;🧠+Specializing+in+Anomalies;🚀+MPhil+/+PhD+Candidate;⚡+High+Performance+Computing" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
+<p align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mohsin-haider-sultan498b5b251" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="mailto:sp22-bcs136@students.cuisahiwal.edu.pk"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+<a href="https://instagram.com/mohsin_haider_sultan_gilgiti" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram"></a>
+</p>
 </div>
 
-💫 About Me
+⚡ Quick Overview
 
-🔭 Current Focus:
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<h4>🚀 Current Trajectory</h4>
+<ul>
+<li><b>FYP:</b> <code>AI LogGuard</code> — Real-time anomaly detection using ML (Scikit-learn/Firebase).</li>
+<li><b>Academic:</b> BS CS @ COMSATS (CGPA: 3.71/4.0).</li>
+<li><b>Goal:</b> Pursuing Doctorate-level research in <b>Agentic AI</b> for automated threat response.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>🛠️ Technical Focus</h4>
+<ul>
+<li><b>AI/ML:</b> Supervised/Unsupervised Learning, RAG, LLMs.</li>
+<li><b>Security:</b> InfoSec, Malware Analysis, Zero Trust.</li>
+<li><b>Systems:</b> Parallel Computing (OpenMP), Linux Internals.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-AI LogGuard (FYP): Developing an AI-based Log Analyzer for anomaly detection using supervised and unsupervised ML techniques (Python, Scikit-learn, Firebase).
-
-Research Aspirations: Actively seeking MPhil/PhD opportunities to specialize in the intersection of Artificial Intelligence and Cybersecurity.
-
-👯 Collaboration Interests:
-
-Open-source security tools integrating Agentic AI or LLMs.
-
-Projects involving RAG (Retrieval-Augmented Generation) for security documentation.
-
-Parallel Computing projects using OpenMP for performance optimization.
-
-🌱 Background & Learning:
-
-BS Computer Science student at COMSATS University Islamabad (CGPA: 3.71/4.0).
-
-Deepening knowledge in Zero Trust Architecture and Cloud Security.
-
-⚡ Fun Fact: I’m a "natural lover" and social activist, but highly competitive in sports—Winner of a Cricket tournament (2020) and Runner-up in Football (2021)!
-
-💻 Tech Stack
-
-🧠 AI / ML & Data Science
-
-🛡️ Cybersecurity & Infrastructure
-
-🌐 Web & Database
-
-🚀 Key Projects
-
-AgriSol: Full-stack agricultural services platform connecting farmers with agritech services (PHP/Node.js, Firebase).
-
-Parallel Brute-Force Cracker: Parallelized hash-search using OpenMP to evaluate multi-threaded performance.
-
-Digital Services App: Android application with a Firebase backend for managing assignments and requests.
-
-EVM Simulator: Object-oriented C++ simulation of an Electronic Voting Machine with integrity checks.
-
-📜 Certifications
-
-Google Cybersecurity Professional Certificate (Coursera)
-
-Python Developer Specialization (University of Michigan)
-
-📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=radical" />
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohsinHaiderSultan&theme=radical&no-frame=false&margin-w=4" />
-</p>
-
-🌐 Connect with Me
+🛡️ Cyber-AI Arsenal
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mohsin-haider-sultan498b5b251"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sp22-bcs136@students.cuisahiwal.edu.pk"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://instagram.com/mohsin_haider_sultan_gilgiti"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+
+Domain
+
+Technologies
+
+Artificial Intelligence
+
+
+
+Security & Systems
+
+
+
+Dev & Data
+
+
+
 </div>
 
+📂 Featured Research & Projects
+
+[!TIP]
+AI LogGuard
+An intelligent log analyzer designed to bridge the gap between raw system logs and actionable security insights using unsupervised clustering and supervised classification.
+
+⚡ Parallel Brute-Force Cracker: Optimized cryptographic hash-searching using OpenMP, achieving significant speedups in multi-core environments.
+
+🌾 AgriSol: A robust full-stack solution integrating PHP and Firebase to digitalize agricultural service procurement.
+
+🗳️ EVM (Electronic Voting Machine): A security-first C++ implementation focused on voter integrity and result encryption.
+
+📊 Performance Metrics
+
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=MohsinHaiderSultan&icon=0&color=0" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohsinHaiderSultan%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohsinHaiderSultan%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
 </p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DMohsinHaiderSultan%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D4" />
+</p>
+
+📜 Certifications & Achievements
+
+🎓 Academic Excellence: 97% in Intermediate (FBISE) | CGPA 3.71/4.0 (COMSATS).
+
+🛡️ Google Cybersecurity Professional: End-to-end training in security frameworks and Python automation.
+
+🏆 Sports: Cricket Tournament Winner (2020) | Football Runner-up (2021).
+
+🤝 Leadership: Active member of the Computer Science Society and Social Activist since 2017.
+
+<div align="center">
+<br />
+<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DMohsinHaiderSultan%26icon%3D5%26color%3D0" alt="Visitor Count" />
+<br />
+<sub>Built with 💙 by Mohsin Haider | <i>"Securing the digital frontier with intelligence."</i></sub>
+</div>
