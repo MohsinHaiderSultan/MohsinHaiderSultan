@@ -1,163 +1,116 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00d2ff%26height%3D250%26section%3Dheader%26text%3DMohsin%2520Haider%26fontSize%3D80%26animation%3DfadeIn%26fontColor%3Dffffff" width="100%"/>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3D🛡️+AI+%26+Cybersecurity+Researcher;🧠+Specializing+in+Anomalies;🚀+MPhil+/+PhD+Candidate;⚡+High+Performance+Computing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mohsin-haider-sultan498b5b251" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:sp22-bcs136@students.cuisahiwal.edu.pk">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://instagram.com/mohsin_haider_sultan_gilgiti" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram" />
-</a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Mohsin%20Haider%20Sultan&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
-🌌 The Mission
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🛡️+AI+%26+Cybersecurity+Researcher;🧠+Anomaly+Detection+%26+Threat+Intelligence;🚀+Future+MPhil+%2F+PhD+Scholar;⚡+High+Performance+Computing" />
+</p>
 
-"Bridging the gap between Artificial Intelligence and Zero-Trust Architectures to build a more resilient digital future."
+---
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🎓 Academic Edge</h3>
-<ul>
-<li><b>BS Computer Science</b> @ COMSATS</li>
-<li><b>Current GPA:</b> <code>3.71 / 4.00</code></li>
-<li><b>Key Focus:</b> InfoSec, ML, Parallel Computing</li>
-<li><b>Aspiration:</b> PhD in Agentic Security AI</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">⚡ Quick Stats</h3>
-<ul>
-<li><b>Active Research:</b> AI-Driven Log Analysis</li>
-<li><b>Certifications:</b> Google Cyber Professional</li>
-<li><b>Community:</b> Social Activist since 2017</li>
-<li><b>Sports:</b> Cricket Champion (2020)</li>
-</ul>
-</td>
-</tr>
-</table>
-</div>
+### 🌌 **Mission**
+> *Bridging Artificial Intelligence with Zero-Trust Security to build resilient digital systems.*
 
-🛡️ Tech Stack & Arsenal
+---
 
-<div align="center">
+## 🎓 **Academic Profile**
+- **BS Computer Science** — COMSATS University Islamabad (Sahiwal)
+- **GPA:** `3.71 / 4.00`
+- **Focus Areas:**  
+  - Cybersecurity  
+  - Machine Learning  
+  - Parallel & High-Performance Computing
+- **Goal:** PhD in **Agentic Security AI**
 
-Category
+---
 
-Technologies
+## ⚡ **Quick Highlights**
+- 🔬 **Research:** AI-Driven Log & Threat Analysis  
+- 📜 **Certification:** Google Cybersecurity Professional  
+- 🌱 **Community Work:** Social Activist (Since 2017)  
+- 🏏 **Sports:** Cricket Champion (2020)
 
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/48/000000/brain-3.png" width="20"/> AI & Data
+---
 
-Python Scikit-Learn Pandas NumPy Matplotlib
+## 🛡️ **Tech Stack**
 
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/48/000000/shield.png" width="20"/> Cybersecurity
+### 🧠 AI & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-Information Security Malware Analysis Network Security
+### 🛡️ Cybersecurity & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/48/000000/console.png" width="20"/> Systems
+### 💻 Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-C++ OpenMP Linux/Bash C# (.NET)
+---
 
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/48/000000/web.png" width="20"/> Development
+## 📂 **Featured Projects**
 
-HTML5 CSS3 JS PHP Firebase SQL
+### 🔐 **AI LogGuard**
+> Intelligent log analyzer using ML & clustering to detect anomalies and intrusions.
 
-</div>
+### ⚡ **Parallel Cracker**
+> High-speed password cracking using **OpenMP** for multi-core CPUs.
 
-📂 Featured Research & Lab Projects
+### 🌾 **AgriSol**
+> Firebase-based digital service platform for farmers.
 
-<table align="center">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="100px" />
+### 🗳️ **Security-First EVM**
+> C++ electronic voting machine with encryption & integrity checks.
 
+---
 
-
-
-<b>AI LogGuard</b>
-
-
-
-
-An intelligent log analyzer using unsupervised clustering to detect system intrusions.
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/lock.png" width="100px" />
-
-
-
-
-<b>Parallel Cracker</b>
-
-
-
-
-A high-speed password hasher/cracker optimized using <b>OpenMP</b> for multi-core CPUs.
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/leaf.png" width="100px" />
-
-
-
-
-<b>AgriSol</b>
-
-
-
-
-Full-stack digital service platform for farmers with Firebase real-time integration.
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluency/96/000000/voting-box.png" width="100px" />
-
-
-
-
-<b>Security-First EVM</b>
-
-
-
-
-C++ based Electronic Voting Machine with encryption and voter integrity checks.
-</td>
-</tr>
-</table>
-
-📊 Performance Analytics
+## 📊 **GitHub Analytics**
 
 <p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohsinHaiderSultan%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26hide_border%3Dtrue%26rank_icon%3Dgithub" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohsinHaiderSultan%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DMohsinHaiderSultan%26theme%3Dtokyonight%26no-frame%3Dtrue%26margin-w%3D4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinHaiderSultan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMohsinHaiderSultan%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinHaiderSultan&theme=tokyonight&no-frame=true&margin-w=5"/>
 </p>
 
-🐍 Activity Contribution
+---
+
+## 🐍 **Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohsinHaiderSultan/MohsinHaiderSultan/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/MohsinHaiderSultan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sp22-bcs136@students.cuisahiwal.edu.pk">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+</p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MohsinHaiderSultan/MohsinHaiderSultan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://visitcount.itsvg.in/api?id=MohsinHaiderSultan&icon=5&color=0" />
 </p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DMohsinHaiderSultan%26icon%3D5%26color%3D0" alt="Visitor Count" />
-<br />
-<p><i>"The goal is not to live forever, the goal is to create something that will."</i></p>
-<sub><b>Mohsin Haider Sultan</b> — 2024 Profile</sub>
-</div>
+---
+
+<p align="center"><i>"The goal is not to live forever, but to create something that will."</i></p>
+<p align="center"><b>— Mohsin Haider Sultan</b></p>
