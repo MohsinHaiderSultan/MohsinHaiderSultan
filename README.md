@@ -1,61 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70&animation=fadeIn" width="100%"/>
   
-  <h1>🛡️ AI & Cybersecurity Engineer 🧠</h1>
+  <h1>🛡️ Cyber-AI Systems Architect 🧠</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+LogGuard;Architecting+PhishGuard+AI+Systems;Specializing+in+Agentic+Security+Workflows;Advocating+for+Zero-Trust+Infrastructure" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/MohsinHaiderSultan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mohsinhaidersultan001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 💫 About Me
-🔭 **Currently working on:**
-* **AI LogGuard:** A Python-based desktop application detecting anomalies in system logs using ML.
-* **PhishGuard AI:** A Streamlit web application for real-time phishing detection using XGBoost and NLP.
+### 🚀 Flagship Projects
 
-👯 **Looking to collaborate on:** * Open-source Cybersecurity tools integrating **LLMs** or **Agentic AI**.
-* Projects involving **RAG** for security documentation and automated response.
-
-🌱 **Currently learning:** * **Agentic AI** workflows and **LangChain** for security automation.
-* Advanced **Zero Trust Architecture** and Cloud Security (AWS/Azure).
-
-⚡ **Fun fact:** I’m a "natural lover" who advocates for peace, but I’m a competitive athlete—winner of a cricket tournament and runner-up in football!
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[AI LogGuard](https://github.com/MohsinHaiderSultan/AI-LogGuard)** | `Python` `XGBoost` `ELK` | Production-grade anomaly detection for system telemetry and security logs. |
+| **[PhishGuard AI](https://github.com/MohsinHaiderSultan/PhishGuard-AI)** | `Streamlit` `NLP` `RAG` | Real-time URL and file classification engine with AI-driven threat reasoning. |
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Professional Tech Stack
 
-#### **🧠 Artificial Intelligence & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+#### **🧠 Intelligence & Data Science**
+> **Specialization:** LLM Orchestration, RAG Pipelines, and Predictive Security Modeling.
+- **Languages:** `Python (Expert)`, `C++`, `SQL`, `R`
+- **Frameworks:** `LangChain`, `LangGraph`, `Scikit-Learn`, `XGBoost`, `PyTorch`
+- **Vector DBs:** `Pinecone`, `ChromaDB`, `Milvus`
 
-#### **🛡️ Cybersecurity & Infrastructure**
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Tor](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### **🛡️ Cybersecurity Operations**
+> **Specialization:** Threat Intelligence, Adversarial AI Defense, and Network Hardening.
+- **Tools:** `Splunk`, `Wazuh (SIEM)`, `Wireshark`, `Burp Suite`, `Metasploit`
+- **Concepts:** `Zero Trust Architecture`, `IAM`, `Cloud Security (AWS/Azure)`, `OWASP Top 10`
 
-#### **🌐 Web & Database**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=radical" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinHaiderSultan&theme=radical&no-frame=false&margin-w=4" />
-</p>
+#### **⚙️ DevOps & Cloud Architecture**
+- **Infrastructure:** `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions (CI/CD)`
+- **Cloud:** `AWS (S3, Lambda)`, `Firebase`, `Google Cloud Platform`
 
 ---
 
-### 🌐 Connect with Me
+### 📊 Engineering Metrics
 <div align="center">
-<a href="https://linkedin.com/in/MohsinHaiderSultan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/MohsinHaiderSultan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/mohsin_haider_sultan_gilgiti"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=radical&border_radius=10" />
 </div>
 
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=MohsinHaiderSultan&icon=0&color=0" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinHaiderSultan&theme=radical&no-frame=false&column=7&margin-w=4" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github.com/MohsinHaiderSultan/MohsinHaiderSultan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=MohsinHaiderSultan&color=blue&style=flat-square&label=PROFILE+VIEWS" />
+</div>
