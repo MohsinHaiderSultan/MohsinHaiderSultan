@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=MOHSIN%20HAIDER&fontSize=80&fontAlignY=40&animation=twinkling&desc=AI%20%26%20Cybersecurity%20Architect&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
+  
+  <h1>🛡️ AI & Cybersecurity Engineer 🧠</h1>
 
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DETECTING+ANOMALIES+WITH+AI;SECURING+NETWORKS+WITH+ML;ENGINEERING+AGENTIC+WORKFLOWS;ZERO-TRUST+INFRASTRUCTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/MohsinHaiderSultan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
