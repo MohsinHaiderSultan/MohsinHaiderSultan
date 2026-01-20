@@ -1,73 +1,53 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=MOHSIN%20HAIDER&fontSize=80&fontAlignY=40&animation=twinkling&desc=AI%20%26%20Cybersecurity%20Architect&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00D4FF%26height%3D280%26section%3Dheader%26text%3DMOHSIN%2520HAIDER%26fontSize%3D80%26fontAlignY%3D35%26animation%3DfadeIn%26desc%3DAI%2520%2526%2520CYBERSECURITY%2520ARCHITECT%26descAlignY%3D55%26descSize%3D20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=DETECTING+ANOMALIES+WITH+AI;SECURING+NETWORKS+WITH+ML;ENGINEERING+AGENTIC+WORKFLOWS;ZERO-TRUST+INFRASTRUCTURE" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DOrbitron%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00D4FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DDETECTING%2BANOMALIES%2BWITH%2BAI%3BSECURING%2BNETWORKS%2BWITH%2BML%3BENGINEERING%2BAGENTIC%2BWORKFLOWS%3BZERO-TRUST%2BINFRASTRUCTURE" alt="Typing SVG" />
 
 <p align="center">
-<a href="https://linkedin.com/in/MohsinHaiderSultan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohsinhaidersultan001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/MohsinHaiderSultan"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://facebook.com/MohsinHaiderSultan"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" /></a>
+<a href="https://linkedin.com/in/MohsinHaiderSultan"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="mailto:mohsinhaidersultan001@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<a href="https://github.com/MohsinHaiderSultan"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" /></a>
+<a href="https://facebook.com/MohsinHaiderSultan"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" /></a>
 </p>
 </div>
 
-💫 MISSION BRIEFING
+🌑 MISSION BRIEFING
 
-<div align="left">
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-<p>🔭 <b>Current Missions:</b>
+<p align="left">
+<i>Computer Science graduate from COMSATS University, specializing in the intersection of Artificial Intelligence and Information Security. I build autonomous defense systems that leverage the power of LLMs and predictive analytics to stay ahead of evolving threats.</i>
+</p>
 
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Actively_Building-00D4FF%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Focus-Defensive_AI-blueviolet%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Research-Agentic_RAG-orange%3Fstyle%3Dflat-square" />
+</div>
 
+🛠️ TECH STACK RADAR
 
+<div align="center">
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,cpp,linux,bash,git,github,vscode,mysql,firebase,docker,aws,fastapi%26perline%3D12" />
+</a>
+</p>
 
+Domain
 
-&nbsp;&nbsp;• <b>AI LogGuard:</b> ML-based log anomaly detection (Python)
+Technologies & Frameworks
 
+AI & Intelligence
 
+LLMs RAG LangChain XGBoost Scikit-learn Pandas
 
+Cyber Defense
 
+Threat Hunting SIEM ELK Stack Cryptography Zero Trust
 
-&nbsp;&nbsp;• <b>PhishGuard AI:</b> Real-time phishing detection (XGBoost/NLP)</p>
-<p>👯 <b>Collaborations:</b>
+Engineering
 
+NLTK Streamlit Vector DBs (Pinecone) REST APIs
 
-
-
-
-&nbsp;&nbsp;• Open-source Cyber tools with LLMs/Agentic AI
-
-
-
-
-
-&nbsp;&nbsp;• RAG implementation for security documentation</p>
-</td>
-<td width="50%" valign="top">
-<p>🌱 <b>Intel Gathering:</b>
-
-
-
-
-
-&nbsp;&nbsp;• Agentic AI Workflows & LangChain
-
-
-
-
-
-&nbsp;&nbsp;• Advanced Zero Trust & Cloud Security (AWS/Azure)</p>
-<p>⚡ <b>Fun Fact:</b>
-
-
-
-
-
-&nbsp;&nbsp;I'm a peace advocate & competitive athlete. Cricket Tournament Winner 🏆 | Football Runner-up ⚽</p>
-</td>
-</tr>
-</table>
 </div>
 
 📂 PROJECT TERMINAL
@@ -75,73 +55,33 @@
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🚀 FLAGSHIP: AI LOGGUARD</h4>
-<p><i>Advanced Anomaly Detection System</i></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/XGBoost-black%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ELK_Stack-005571%3Fstyle%3Dflat-square%26logo%3Delastic-stack%26logoColor%3Dwhite" />
-<p>Automated threat hunting in system telemetry with 95%+ accuracy using ensemble learning.</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FLAGSHIP-AI_LOGGUARD-00D4FF%3Fstyle%3Dfor-the-badge" />
+</div>
+<p align="center"><b>Real-time Anomaly Discovery</b></p>
+<p>Automated threat hunting in system telemetry with 95%+ accuracy. Uses ensemble learning to identify patterns invisible to traditional rules.</p>
+<p align="center">
+<code>Python</code> <code>XGBoost</code> <code>ELK</code>
+</p>
 </td>
 <td width="50%" valign="top">
-<h4>🛡️ PHISHGUARD AI</h4>
-<p><i>Real-time Threat Intelligence</i></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dflat-square%26logo%3Dstreamlit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLP-blue%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dflat-square%26logo%3Dfastapi%26logoColor%3Dwhite" />
-<p>High-speed classification of malicious URLs and emails using deep linguistic analysis.</p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SECURITY-PHISHGUARD_AI-blueviolet%3Fstyle%3Dfor-the-badge" />
+</div>
+<p align="center"><b>Threat Intel Platform</b></p>
+<p>High-speed classification of malicious URLs and emails using deep linguistic analysis and NLP pipelines for immediate triage.</p>
+<p align="center">
+<code>Streamlit</code> <code>NLP</code> <code>FastAPI</code>
+</p>
 </td>
 </tr>
 </table>
-
-⚡ TECH RADAR
-
-<div align="center">
-
-AI & INTELLIGENCE
-
-CYBER DEFENSE
-
-ENGINEERING
-
-🧠 LLMs & RAG
-
-🛡️ Threat Hunting
-
-🐍 Python (Advanced)
-
-📈 Predictive ML
-
-🔑 Cryptography
-
-🐳 Docker & K8s
-
-🤖 Agentic AI
-
-🌐 Zero Trust
-
-☁️ AWS Security
-
-📊 Data Science
-
-🔍 SIEM / Splunk
-
-💻 Linux Kernel
-
-</div>
 
 📊 ANALYTICS HUB
 
 <div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=transparent&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF&border_radius=10&hide_border=true" height="170" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=transparent&title_color=00D4FF&text_color=ffffff&border_radius=10&hide_border=true" height="170" />
-</td>
-</tr>
-</table>
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMohsinHaiderSultan%26show_icons%3Dtrue%26theme%3Dtokyonight%26title_color%3D00D4FF%26text_color%3Dffffff%26icon_color%3D00D4FF%26border_radius%3D10%26hide_border%3Dtrue" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMohsinHaiderSultan%26layout%3Dcompact%26theme%3Dtokyonight%26title_color%3D00D4FF%26text_color%3Dffffff%26border_radius%3D10%26hide_border%3Dtrue" />
 </div>
 
 <div align="center">
@@ -149,7 +89,7 @@ ENGINEERING
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DMohsinHaiderSultan%26theme%3Dtokyonight%26hide_border%3Dtrue" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMohsinHaiderSultan%26theme%3Dtokyonight%26hide_border%3Dtrue" width="100%" />
 </div>
 
 👾 NETWORK ACTIVITY
@@ -161,18 +101,13 @@ ENGINEERING
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
-
-
-
-
 <code>SYSTEM STATUS: OPERATIONAL 🟢</code> | <code>SECURITY LEVEL: MAXIMUM 🔒</code>
 
 
 
 
 
-
-
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DMohsinHaiderSultan%26color%3D00D4FF%26style%3Dflat-square%26label%3DSECURE_ACCESS_COUNT" alt="Profile Views" />
-<p font-size="10px"><i>Built with Intelligence // Mohsin Haider Sultan © 2024</i></p>
+
+<p><i>Built with Intelligence & Integrity // Mohsin Haider Sultan © 2024</i></p>
 </div>
