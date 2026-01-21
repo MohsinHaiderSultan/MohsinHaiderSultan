@@ -22,9 +22,9 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="44" height="44" alt="Instagram" />
         </a>
       </td>
-     <td align="center" width="60">
+    <td align="center" width="60">
   <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-    <img src="https://skillicons.dev/icons?i=postman" width="32" height="32" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=notion" width="32" height="32" alt="Portfolio" />
   </a>
 </td>
     </tr>
