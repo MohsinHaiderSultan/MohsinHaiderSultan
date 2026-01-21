@@ -7,25 +7,17 @@
   
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="60">
-        <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="30" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="mailto:mohsinhaidersultan001@gmail.com">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="30" alt="Gmail" />
-        </a>
-      </td>
-      <td align="center" width="60">
-        <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="30" alt="Instagram" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="24" height="24" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohsinhaidersultan001@gmail.com">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="24" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="24" height="24" />
+  </a>
 </p>
 </div>
 
