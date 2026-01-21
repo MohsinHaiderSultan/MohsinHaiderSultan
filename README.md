@@ -4,9 +4,7 @@
   <h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
-  
 
-<p align="center">
   <table align="center">
     <tr>
       <td align="center" width="40">
@@ -26,7 +24,6 @@
       </td>
     </tr>
   </table>
-</p>
 </div>
 
 ---
@@ -38,12 +35,23 @@
 ---
 
 ## 🎓 **Academic Profile**
-- **BS Computer Science** — COMSATS University Islamabad (Sahiwal Campus)
-- **GPA:** `3.71 / 4.00`
-- **Focus Areas:** - Cybersecurity & Network Defense
-  - Machine Learning & Agentic AI  
-  - Parallel & High-Performance Computing (OpenMP)
-- **Goal:** To become the world's No. 1 **Agentic Security AI** Expert.
+<table width="100%">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <b>Bachelor of Science in Computer Science</b><br>
+      <i>COMSATS University Islamabad (Sahiwal Campus)</i><br>
+      <code>GPA: 3.71 / 4.00</code>
+    </td>
+    <td width="40%" style="vertical-align: top;">
+      <b>Focus Areas:</b><br>
+      • 🛡️ Cybersecurity & Network Defense<br>
+      • 🤖 Machine Learning & Agentic AI<br>
+      • ⚡ High-Performance Computing
+    </td>
+  </tr>
+</table>
+
+> **Goal:** To become the world's No. 1 **Agentic Security AI** Expert.
 
 ---
 
@@ -59,28 +67,29 @@
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="100" height="100" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink" alt="LangChain" height="58"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable" alt="RAG" height="58"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink" alt="LangChain" height="48"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable" alt="RAG" height="48"/>
 </p>
 
 ### 📊 Data Engineering & Vector DBs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="100" height="100" />
-  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone" alt="Pinecone" height="58"/>
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" />
+  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone" alt="Pinecone" height="48"/>
 </p>
 
 ### 🛡️ Cybersecurity & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="100" height="100" />
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk" alt="Splunk" height="58"/>
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" height="58"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk" alt="Splunk" height="48"/>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" height="48"/>
 </p>
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="300" height="300" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" />
 </p>
+
 ---
 
 ## 📂 **Featured Projects**
@@ -119,14 +128,13 @@
 
 ---
 
-
-
 <p align="center">
   <br>
   <i>"The goal is not to live forever, but to create something that will."</i>
-  <br>
+  <br><br>
   <font size="5"><b>Mohsin Haider Sultan</b></font>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
+</div>
