@@ -9,17 +9,17 @@
     <tr>
       <td align="center" width="40">
         <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="24" height="24" alt="LinkedIn" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="34" height="34" alt="LinkedIn" />
         </a>
       </td>
       <td align="center" width="40">
         <a href="mailto:mohsinhaidersultan001@gmail.com">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="24" height="24" alt="Gmail" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="34" height="34" alt="Gmail" />
         </a>
       </td>
       <td align="center" width="40">
         <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="24" height="24" alt="Instagram" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="34" height="34" alt="Instagram" />
         </a>
       </td>
     </tr>
@@ -64,31 +64,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="40" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white&labelColor=2F2F2F" width="40" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white&labelColor=1E3A8A" width="40" height="40" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="200" height="200" style="margin:5px;" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white&labelColor=2F2F2F" width="70" height="70" style="margin:5px;" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white&labelColor=1E3A8A" width="70" height="70" style="margin:5px;" />
 </p>
 
-### 📊 Data Engineering & Vector DBs
+## 📊 Data Engineering & Vector DBs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="40" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white&labelColor=2F2F2F" width="40" height="40" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="200" height="200" style="margin:5px;" />
+  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white&labelColor=2F2F2F" width="70" height="700" style="margin:5px;" />
 </p>
 
-### 🛡️ Cybersecurity & Infrastructure
+## 🛡️ Cybersecurity & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="40" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white&labelColor=2F2F2F" width="40" height="40" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white&labelColor=721412" width="40" height="40" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="200" height="200" style="margin:5px;" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white&labelColor=2F2F2F" width="70" height="70" style="margin:5px;" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white&labelColor=721412" width="70" height="70" style="margin:5px;" />
 </p>
 
-### 💻 Programming & Tools
+## 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="40" height="40" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="200" height="200" style="margin:5px;" />
 </p>
 
 ---
