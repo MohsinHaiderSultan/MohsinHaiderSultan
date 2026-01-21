@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" style="max-width:100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%" />
   
   <h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
 
@@ -7,26 +7,26 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="50">
+      <td align="center" width="60">
         <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="44" height="44" alt="LinkedIn" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="40" height="40" alt="LinkedIn" />
         </a>
       </td>
-      <td align="center" width="50">
+      <td align="center" width="60">
         <a href="mailto:mohsinhaidersultan001@gmail.com">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="44" height="44" alt="Gmail" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="40" height="40" alt="Gmail" />
         </a>
       </td>
-      <td align="center" width="50">
+      <td align="center" width="60">
+        <a href="https://mohsinhaidersultan.github.io/Portfolio/">
+          <img src="https://img.icons8.com/ios-filled/100/36BCF7/user-male-circle.png" width="40" height="40" alt="Portfolio" />
+        </a>
+      </td>
+      <td align="center" width="60">
         <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="44" height="44" alt="Instagram" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="40" height="40" alt="Instagram" />
         </a>
       </td>
-   <td align="center" width="60">
-      <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-        <img src="https://img.icons8.com/ios-filled/100/36BCF7/user-male-circle.png" width="32" height="32" alt="Portfolio" />
-      </a>
-    </td>
     </tr>
   </table>
 </div>
@@ -34,20 +34,20 @@
 ---
 
 ## 🎯 Core Mission
-> **"Bridging Artificial Intelligence with Zero-Trust Security to build resilient, self-healing digital systems."**  
-> Building AI-powered systems to detect threats before they happen and secure digital infrastructure.
+> [!IMPORTANT]
+> **"Bridging Artificial Intelligence with Zero-Trust Security to build resilient, self-healing digital systems."** > Building AI-powered systems to detect threats before they happen and secure digital infrastructure.
 
 ---
 
 ## 👨‍🎓 Academic Profile
 <table width="100%">
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="55%" style="vertical-align: top;">
       <b>Bachelor of Science in Computer Science</b><br>
       <i>COMSATS University Islamabad</i><br>
       <code>GPA: 3.71 / 4.00</code>
     </td>
-    <td width="50%" style="vertical-align: top;">
+    <td width="45%" style="vertical-align: top;">
       <b>Focus Areas:</b><br>
       • 🛡️ Cybersecurity & Network Defense<br>
       • 🤖 Machine Learning & Agentic AI<br>
@@ -73,52 +73,48 @@
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="150" height="150" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white&labelColor=1E3A8A" width="70" height="100" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white" height="48" />
 </p>
 
 ### 📊 Data Engineering & Vector DBs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="150" height="150" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" />
+  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white" height="48" />
 </p>
 
 ### 🛡️ Cybersecurity & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="150" height="150" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white&labelColor=721412" width="70" height="100" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" height="48" />
 </p>
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="350" height="350" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔐 AI LogGuard
+### 🔐 [AI LogGuard](https://github.com/MohsinHaiderSultan/AI-LogGuard)
 > Intelligent log analyzer using ML & clustering to detect anomalies and intrusions.  
-> **Tech:** Python, Scikit-learn, Pandas, Isolation Forest  
-> [GitHub Repo](https://github.com/MohsinHaiderSultan/AI-LogGuard)
+> **Tech:** `Python` `Scikit-learn` `Pandas` `Isolation Forest`
 
-### ⚡ Parallel Cracker
+### ⚡ [Parallel Cracker](https://github.com/MohsinHaiderSultan/Parallel-Cracker)
 > High-speed password cracking using **OpenMP** for multi-core CPUs.  
-> **Tech:** C++, OpenMP, Linux  
-> [GitHub Repo](https://github.com/MohsinHaiderSultan/Parallel-Cracker)
+> **Tech:** `C++` `OpenMP` `Linux`
 
-### 🌾 AgriSol
+### 🌾 [AgriSol](https://github.com/MohsinHaiderSultan/AgriSol)
 > Firebase-based digital service platform for farmers.  
-> **Tech:** Firebase, Android Studio, Kotlin, PHP  
-> [GitHub Repo](https://github.com/MohsinHaiderSultan/AgriSol)
+> **Tech:** `Firebase` `Android Studio` `Kotlin` `PHP`
 
-### 🗳️ Security-First EVM
+### 🗳️ [Security-First EVM](https://github.com/MohsinHaiderSultan/Security-First-EVM)
 > C++ electronic voting machine with encryption & integrity checks.  
-> **Tech:** C++, OpenSSL, GUI  
-> [GitHub Repo](https://github.com/MohsinHaiderSultan/Security-First-EVM)
+> **Tech:** `C++` `OpenSSL` `GUI`
 
 ---
 
@@ -143,11 +139,12 @@
 ---
 
 <p align="center">
+  <br>
   <i>"The goal is not to live forever, but to create something that will."</i>
   <br><br>
   <font size="5"><b>Mohsin Haider Sultan</b></font>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" style="max-width:100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%" />
 </div>
