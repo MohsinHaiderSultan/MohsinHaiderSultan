@@ -6,16 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
   
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
- <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand&size=40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohsinhaidersultan001@gmail.com">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand&size=40" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand&size=40" alt="Instagram" />
-  </a>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="60">
+        <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
+          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="30" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center" width="60">
+        <a href="mailto:mohsinhaidersultan001@gmail.com">
+          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="30" alt="Gmail" />
+        </a>
+      </td>
+      <td align="center" width="60">
+        <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
+          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="30" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 </div>
 
