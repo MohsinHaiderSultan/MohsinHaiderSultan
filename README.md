@@ -42,12 +42,12 @@
 ## 👨‍🎓 Academic Profile
 <table width="110%">
   <tr>
-    <td width="60%" style="vertical-align: top;">
+    <td width="55%" style="vertical-align: top;">
       <b>Bachelor of Science in Computer Science</b><br>
       <i>COMSATS University Islamabad</i><br>
       <code>GPA: 3.71 / 4.00</code>
     </td>
-    <td width="50%" style="vertical-align: top;">
+    <td width="55%" style="vertical-align: top;">
       <b>Focus Areas:</b><br>
       • 🛡️ Cybersecurity & Network Defense<br>
       • 🤖 Machine Learning & Agentic AI<br>
@@ -120,16 +120,26 @@
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinHaiderSultan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+
 
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinHaiderSultan&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+
+
+---
 
 ---
 
