@@ -24,8 +24,8 @@
       </td>
      <td align="center" width="50">
        <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-         <img src="https://www.readmecodegen.com/api/social-icon?name=website&shape=circle&theme=brand" width="24" height="24" alt="Portfolio" />
-       </a>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=globe&shape=circle&theme=brand" width="24" height="24" alt="Portfolio" />
+</a>
     </td>
     </tr>
   </table>
