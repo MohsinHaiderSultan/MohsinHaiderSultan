@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" style="max-width:100%;" />
   
   <h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
 
@@ -28,34 +28,35 @@
 
 ---
 
-## 🎯 **Core Mission**
-> [!TIP]
-> **"Bridging Artificial Intelligence with Zero-Trust Security to build resilient, self-healing digital systems."**
+## 🎯 Core Mission
+> **"Bridging Artificial Intelligence with Zero-Trust Security to build resilient, self-healing digital systems."**  
+> Building AI-powered systems to detect threats before they happen and secure digital infrastructure.
 
 ---
 
-## 🎓 **Academic Profile**
+## 👨‍🎓 Academic Profile
 <table width="100%">
   <tr>
     <td width="50%" style="vertical-align: top;">
       <b>Bachelor of Science in Computer Science</b><br>
-      <i>COMSATS University Islamabad </i><br>
+      <i>COMSATS University Islamabad</i><br>
       <code>GPA: 3.71 / 4.00</code>
     </td>
     <td width="50%" style="vertical-align: top;">
       <b>Focus Areas:</b><br>
       • 🛡️ Cybersecurity & Network Defense<br>
       • 🤖 Machine Learning & Agentic AI<br>
-      • ⚡ High-Performance Computing
+      • ⚡ High-Performance Computing<br>
+      • 📜 Google Cybersecurity Professional
     </td>
   </tr>
 </table>
 
-> **Goal:** Dedicated to mastering **Red Teaming** and **Ethical Hacking** to architect impenetrable digital fortresses
+> **Goal:** Dedicated to mastering **Red Teaming** and **Ethical Hacking** to architect impenetrable digital fortresses.
 
 ---
 
-## ⚡ **Quick Highlights**
+## ⚡ Quick Highlights
 - 🔬 **Research:** AI-Driven Log & Threat Analysis  
 - 📜 **Certification:** Google Cybersecurity Professional  
 - 🌱 **Community Work:** Social Activist (Since 2017)  
@@ -92,23 +93,31 @@
 
 ---
 
-## 📂 **Featured Projects**
+## 📂 Featured Projects
 
-### 🔐 **AI LogGuard**
-> Intelligent log analyzer using ML & clustering to detect anomalies and intrusions.
+### 🔐 AI LogGuard
+> Intelligent log analyzer using ML & clustering to detect anomalies and intrusions.  
+> **Tech:** Python, Scikit-learn, Pandas, Isolation Forest  
+> [GitHub Repo](https://github.com/MohsinHaiderSultan/AI-LogGuard)
 
-### ⚡ **Parallel Cracker**
-> High-speed password cracking using **OpenMP** for multi-core CPUs.
+### ⚡ Parallel Cracker
+> High-speed password cracking using **OpenMP** for multi-core CPUs.  
+> **Tech:** C++, OpenMP, Linux  
+> [GitHub Repo](https://github.com/MohsinHaiderSultan/Parallel-Cracker)
 
-### 🌾 **AgriSol**
-> Firebase-based digital service platform for farmers.
+### 🌾 AgriSol
+> Firebase-based digital service platform for farmers.  
+> **Tech:** Firebase, Android Studio, Kotlin, PHP  
+> [GitHub Repo](https://github.com/MohsinHaiderSultan/AgriSol)
 
-### 🗳️ **Security-First EVM**
-> C++ electronic voting machine with encryption & integrity checks.
+### 🗳️ Security-First EVM
+> C++ electronic voting machine with encryption & integrity checks.  
+> **Tech:** C++, OpenSSL, GUI  
+> [GitHub Repo](https://github.com/MohsinHaiderSultan/Security-First-EVM)
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohsinHaiderSultan&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -121,7 +130,7 @@
 
 ---
 
-## 🐍 **Contribution Graph**
+## 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohsinHaiderSultan/MohsinHaiderSultan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
@@ -129,12 +138,11 @@
 ---
 
 <p align="center">
-  <br>
   <i>"The goal is not to live forever, but to create something that will."</i>
   <br><br>
   <font size="5"><b>Mohsin Haider Sultan</b></font>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" style="max-width:100%;" />
 </div>
