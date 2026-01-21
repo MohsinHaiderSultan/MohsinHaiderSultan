@@ -31,8 +31,6 @@
 
 ---
 
----
-
 ## 🎯 **Core Mission**
 > [!TIP]
 > **"Bridging Artificial Intelligence with Zero-Trust Security to build resilient, self-healing digital systems."**
@@ -132,6 +130,6 @@
   <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Made with Python" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=footer" width="100%"/>
+</div>
