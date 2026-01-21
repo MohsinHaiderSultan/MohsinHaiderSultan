@@ -8,10 +8,10 @@
 
   <p align="center">
   <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand&size=40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mohsinhaidersultan001@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand&size=40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00f2fe" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
     <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand&size=40" alt="Instagram" />
