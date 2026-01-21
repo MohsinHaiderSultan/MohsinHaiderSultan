@@ -22,11 +22,11 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="44" height="44" alt="Instagram" />
         </a>
       </td>
-     <td align="center" width="50">
+     <td align="center" width="60">
   <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-    <img src="https://skillicons.dev/icons?i=htmx&theme=light" width="64" height="64" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="32" alt="Portfolio" />
   </a>
-    </td>
+</td>
     </tr>
   </table>
 </div>
