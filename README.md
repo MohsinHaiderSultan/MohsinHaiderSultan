@@ -61,27 +61,27 @@
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="24" height="24" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="58" height="58" />
   <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink" alt="LangChain" height="58"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable" alt="RAG" height="58"/>
 </p>
 
 ### 📊 Data Engineering & Vector DBs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="24" height="24" />
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="58" height="58" />
   <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone" alt="Pinecone" height="58"/>
 </p>
 
 ### 🛡️ Cybersecurity & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="24" height="24" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="58" height="58" />
   <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk" alt="Splunk" height="58"/>
   <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" height="58"/>
 </p>
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="24" height="24" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="58" height="58" />
 </p>
 
 ## 📂 **Featured Projects**
