@@ -17,7 +17,6 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="40" height="40" alt="Gmail" />
         </a>
       </td>
-      
       <td align="center" width="60">
         <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
           <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="40" height="40" alt="Instagram" />
