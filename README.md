@@ -23,9 +23,9 @@
         </a>
       </td>
      <td align="center" width="50">
-       <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=globe&shape=circle&theme=brand" width="24" height="24" alt="Portfolio" />
-</a>
+      <a href="https://mohsinhaidersultan.github.io/Portfolio/">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" height="24" alt="Portfolio" />
+      </a>
     </td>
     </tr>
   </table>
