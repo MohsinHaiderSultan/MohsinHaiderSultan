@@ -120,9 +120,6 @@
 </p>
 
 
-
----
-
 ---
 
 ## 📂 Featured Projects
@@ -160,11 +157,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinHaiderSultan&theme=tokyonight&hide_border=true"/>
 
-</p>>
-
-
-
----
+</p>
 
 ---
 
