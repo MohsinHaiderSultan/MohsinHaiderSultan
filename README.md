@@ -17,14 +17,15 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="40" height="40" alt="Gmail" />
         </a>
       </td>
-      <td align="center" width="60">
-        <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-          <img src="https://img.icons8.com/ios-filled/100/36BCF7/user-male-circle.png" width="40" height="40" alt="Portfolio" />
-        </a>
-      </td>
+      
       <td align="center" width="60">
         <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
           <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="40" height="40" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center" width="60">
+        <a href="https://mohsinhaidersultan.github.io/Portfolio/">
+          <img src="https://img.icons8.com/ios-filled/100/36BCF7/user-male-circle.png" width="40" height="40" alt="Portfolio" />
         </a>
       </td>
     </tr>
@@ -40,14 +41,14 @@
 ---
 
 ## 👨‍🎓 Academic Profile
-<table width="100%">
+<table width="110%">
   <tr>
-    <td width="55%" style="vertical-align: top;">
+    <td width="60%" style="vertical-align: top;">
       <b>Bachelor of Science in Computer Science</b><br>
       <i>COMSATS University Islamabad</i><br>
       <code>GPA: 3.71 / 4.00</code>
     </td>
-    <td width="45%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top;">
       <b>Focus Areas:</b><br>
       • 🛡️ Cybersecurity & Network Defense<br>
       • 🤖 Machine Learning & Agentic AI<br>
@@ -126,7 +127,9 @@
 </p>
 
 <p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinHaiderSultan&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
