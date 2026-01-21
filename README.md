@@ -72,29 +72,56 @@
 ## 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white" height="48" />
+
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="150" height="150" style="margin:5px;" />
+
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
+
+  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable&logoColor=white&labelColor=1E3A8A" width="70" height="100" style="margin:5px;" />
+
 </p>
+
+
 
 ### 📊 Data Engineering & Vector DBs
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" />
-  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white" height="48" />
+
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="150" height="150" style="margin:5px;" />
+
+  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
+
 </p>
+
+
 
 ### 🛡️ Cybersecurity & Infrastructure
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" />
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" height="48" />
+
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="150" height="150" style="margin:5px;" />
+
+  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white&labelColor=2F2F2F" width="70" height="100" style="margin:5px;" />
+
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white&labelColor=721412" width="70" height="100" style="margin:5px;" />
+
 </p>
 
+
+
 ### 💻 Programming & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" />
+
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="350" height="350" style="margin:5px;" />
+
 </p>
+
+
+
+---
 
 ---
 
