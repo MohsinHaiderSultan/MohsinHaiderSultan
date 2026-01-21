@@ -7,19 +7,19 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="40">
+      <td align="center" width="50">
         <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="34" height="34" alt="LinkedIn" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand" width="44" height="44" alt="LinkedIn" />
         </a>
       </td>
-      <td align="center" width="40">
+      <td align="center" width="50">
         <a href="mailto:mohsinhaidersultan001@gmail.com">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="34" height="34" alt="Gmail" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand" width="44" height="44" alt="Gmail" />
         </a>
       </td>
-      <td align="center" width="40">
+      <td align="center" width="50">
         <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="34" height="34" alt="Instagram" />
+          <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="44" height="44" alt="Instagram" />
         </a>
       </td>
     </tr>
