@@ -1,14 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
   
-  <h1>🛡️ AI & Cybersecurity Engineer 🧠</h1>
+  <h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🛡️+AI+%26+Cybersecurity+Researcher;🧠+Anomaly+Detection+%26+Threat+Intelligence;🚀+Future+MPhil+%2F+PhD+Scholar;⚡+High+Performance+Computing" />
-</p>
 
 ---
 
