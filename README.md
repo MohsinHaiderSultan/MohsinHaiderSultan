@@ -22,7 +22,7 @@
           <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand" width="44" height="44" alt="Instagram" />
         </a>
       </td>
-     <td align="center" width="100">
+     <td align="center" width="200">
   <a href="https://mohsinhaidersultan.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="302" alt="Portfolio" />
   </a>
