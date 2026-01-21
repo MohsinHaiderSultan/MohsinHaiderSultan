@@ -37,12 +37,12 @@
 ## 🎓 **Academic Profile**
 <table width="100%">
   <tr>
-    <td width="60%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top;">
       <b>Bachelor of Science in Computer Science</b><br>
-      <i>COMSATS University Islamabad (Sahiwal Campus)</i><br>
+      <i>COMSATS University Islamabad </i><br>
       <code>GPA: 3.71 / 4.00</code>
     </td>
-    <td width="40%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top;">
       <b>Focus Areas:</b><br>
       • 🛡️ Cybersecurity & Network Defense<br>
       • 🤖 Machine Learning & Agentic AI<br>
@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-> **Goal:** To become the world's No. 1 **Agentic Security AI** Expert.
+> **Goal:** Dedicated to mastering **Red Teaming** and **Ethical Hacking** to architect impenetrable digital fortresses
 
 ---
 
