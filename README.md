@@ -121,19 +121,17 @@
 
 ---
 
----
 
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=The+goal+is+not+to+live+forever...;...but+to+create+something+that+will." alt="Quote" />
+  <br>
+  <i>"The goal is not to live forever, but to create something that will."</i>
+  <br>
+  <font size="4"><b>Mohsin Haider Sultan</b></font>
+  <br>
+  <img src="https://raw.githubusercontent.com/Trulyao/py-badges/main/badges/made-with-python.svg" alt="Made with Python" />
 </p>
 
-<p align="center">
-  <b>— Mohsin Haider Sultan —</b><br>
-  <i>AI & Cybersecurity Researcher</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=footer" width="100%"/>
+</div>
