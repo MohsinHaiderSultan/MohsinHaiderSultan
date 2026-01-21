@@ -39,34 +39,21 @@
 
 ---
 
-## 🎓 **Academic Excellence**
-<table width="100%">
-  <tr>
-    <td width="60%" style="vertical-align: top;">
-      <b>Bachelor of Science in Computer Science</b><br>
-      <i>COMSATS University Islamabad (Sahiwal Campus)</i><br>
-      <code>GPA: 3.71 / 4.00</code>
-    </td>
-    <td width="40%" style="vertical-align: top;">
-      <b>Specializations:</b><br>
-      • 🛡️ Cybersecurity & Network Defense<br>
-      • 🤖 Machine Learning & Agentic AI<br>
-      • ⚡ High-Performance Computing
-    </td>
-  </tr>
-</table>
-
-> **Vision:** To pioneer the field of **Agentic Security AI** and redefine automated threat response.
+## 🎓 **Academic Profile**
+- **BS Computer Science** — COMSATS University Islamabad (Sahiwal Campus)
+- **GPA:** `3.71 / 4.00`
+- **Focus Areas:** - Cybersecurity & Network Defense
+  - Machine Learning & Agentic AI  
+  - Parallel & High-Performance Computing (OpenMP)
+- **Goal:** To become the world's No. 1 **Agentic Security AI** Expert.
 
 ---
 
-## ⚡ **Strategic Highlights**
-
-| 🔬 Research & Tech | 🌟 Impact & Leadership |
-| :--- | :--- |
-| **AI LogGuard:** AI-Driven Log & Threat Analysis | **Social Activist:** Community Work since 2017 |
-| **Google Certified:** Cybersecurity Professional | **Sports:** Cricket Champion (2020) |
-| **Agentic AI:** Developing Autonomous Sec-Ops | **Future Goal:** Top 1% AI Security Researcher |
+## ⚡ **Quick Highlights**
+- 🔬 **Research:** AI-Driven Log & Threat Analysis  
+- 📜 **Certification:** Google Cybersecurity Professional  
+- 🌱 **Community Work:** Social Activist (Since 2017)  
+- 🏏 **Sports:** Cricket Champion (2020)
 
 ---
 
@@ -74,27 +61,27 @@
 
 ### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink" alt="LangChain" height="48"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable" alt="RAG" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" width="24" height="24" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink" alt="LangChain" height="58"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-blue?style=flat-square&logo=airtable" alt="RAG" height="58"/>
 </p>
 
 ### 📊 Data Engineering & Vector DBs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" />
-  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone" alt="Pinecone" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pandas,postgres,mysql,firebase" width="24" height="24" />
+  <img src="https://img.shields.io/badge/Pinecone-black?style=flat-square&logo=pinecone" alt="Pinecone" height="58"/>
 </p>
 
 ### 🛡️ Cybersecurity & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" />
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk" alt="Splunk" height="48"/>
-  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kali" width="24" height="24" />
+  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk" alt="Splunk" height="58"/>
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" height="58"/>
 </p>
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="24" height="24" />
 </p>
 
 ## 📂 **Featured Projects**
