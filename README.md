@@ -4,16 +4,17 @@
   <h1>🛡️ AI & Cybersecurity Researcher 🧠</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
+  
 
   <p align="center">
   <a href="https://www.linkedin.com/in/mohsin-haider-sultan-498b5b251">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&shape=circle&theme=brand&size=40" alt="LinkedIn" />
   </a>
   <a href="mailto:mohsinhaidersultan001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&shape=circle&theme=brand&size=40" alt="Gmail" />
   </a>
   <a href="https://instagram.com/mohsin_haider_sultan_gilgiti">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&shape=circle&theme=brand&size=40" alt="Instagram" />
   </a>
 </p>
 </div>
