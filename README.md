@@ -81,7 +81,7 @@
 
 ### 💻 Programming & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="100" height="100" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,html,css,js,php,git,github,vscode" width="300" height="300" />
 </p>
 
 ## 📂 **Featured Projects**
