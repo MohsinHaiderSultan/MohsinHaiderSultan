@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Mohsin%20Haider%20Sultan&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohsin%20Haider&fontSize=70" width="100%"/>
+  
+  <h1>🛡️ AI & Cybersecurity Engineer 🧠</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+AI+LogGuard;Developing+PhishGuard+AI;Securing+the+Future+with+ML;Cyber+Threat+Intelligence" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,13 +18,13 @@
 ---
 
 ## 🎓 **Academic Profile**
-- **BS Computer Science** — COMSATS University Islamabad (Sahiwal)
+- **BS Computer Science** — COMSATS University Islamabad 
 - **GPA:** `3.71 / 4.00`
 - **Focus Areas:**  
   - Cybersecurity  
   - Machine Learning  
   - Parallel & High-Performance Computing
-- **Goal:** PhD in **Agentic Security AI**
+- **Goal:** To become worlds No 1 **Agentic Security AI**
 
 ---
 
