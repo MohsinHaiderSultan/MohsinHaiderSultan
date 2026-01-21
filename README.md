@@ -127,11 +127,11 @@
   <br>
   <i>"The goal is not to live forever, but to create something that will."</i>
   <br>
-  <font size="4"><b>Mohsin Haider Sultan</b></font>
-  <br>
-  <img src="https://raw.githubusercontent.com/Trulyao/py-badges/main/badges/made-with-python.svg" alt="Made with Python" />
+  <font size="5"><b>Mohsin Haider Sultan</b></font>
+ <br>
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Made with Python" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
+</p>
