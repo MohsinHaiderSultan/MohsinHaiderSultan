@@ -24,7 +24,7 @@
       </td>
    <td align="center" width="60">
       <a href="https://mohsinhaidersultan.github.io/Portfolio/">
-        <img src="https://skillicons.dev/icons?i=workers" width="32" height="32" alt="Portfolio" />
+        <img src="[https://skillicons.dev/icons?i=workers](https://img.icons8.com/ios_filled/1200/portfolio.jpg)" width="32" height="32" alt="Portfolio" />
       </a>
     </td>
     </tr>
